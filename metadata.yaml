@@ -1,0 +1,42 @@
+_repo: Exiles-of-the-sky_71237
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Tomaso, Rico
+    birthdate: 1898
+    deathdate: 1985
+    gutenberg_agent_id: '56140'
+    url: http://www.gutenberg.org/2009/agents/56140
+    wikipedia: https://en.wikipedia.org/wiki/Rico_Tomaso
+creator:
+  author:
+    agent_name: Spewack, Samuel
+    aliases:
+    - Abbott, A. A.
+    - Spewack, Sam
+    birthdate: 1899
+    deathdate: 1971
+    gutenberg_agent_id: '56139'
+    url: http://www.gutenberg.org/2009/agents/56139
+    wikipedia: https://en.wikipedia.org/wiki/Bella_and_Samuel_Spewack
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71237'
+language: en
+pgterms:marc905: 20230720210010spewack
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: '  $aUnited States :$bThe Consolidated Magazines Corporation, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Air pilots -- Fiction'
+- !lcsh 'Russians -- Germany -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Exiles of the sky
+url: http://www.gutenberg.org/ebooks/71237
